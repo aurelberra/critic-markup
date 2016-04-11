@@ -28,7 +28,7 @@ module.exports =
     editor = atom.workspace.getActivePaneItem()
     selection = editor.getLastSelection()
     text = selection.getText()
-    editor.insertText("{~~"+text+"~> ~~}")
+    editor.insertText("{~~"+text+"~>~~}")
 
   highlight: ->
     editor = atom.workspace.getActivePaneItem()
