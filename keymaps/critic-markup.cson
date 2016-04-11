@@ -1,6 +1,7 @@
 'atom-text-editor':
   'cmd-alt-a': 'critic-markup:addition'
   'cmd-alt-d': 'critic-markup:deletion'
+  'cmd-alt-backspace': 'critic-markup:deletion'
   'cmd-alt-s': 'critic-markup:substitution'
   'cmd-alt-h': 'critic-markup:highlight'
   'cmd-alt-c': 'critic-markup:comment'
