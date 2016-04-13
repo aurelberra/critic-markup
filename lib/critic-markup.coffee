@@ -17,6 +17,8 @@ module.exports =
     selection = editor.getLastSelection()
     text = selection.getText()
     editor.insertText("{++"+text+"++}")
+    if !text
+        editor.moveLeft(3)
 
   deletion: ->
     editor = atom.workspace.getActivePaneItem()
@@ -29,15 +31,19 @@ module.exports =
     selection = editor.getLastSelection()
     text = selection.getText()
     editor.insertText("{~~"+text+"~>~~}")
+    editor.moveLeft(3)
 
   highlight: ->
     editor = atom.workspace.getActivePaneItem()
     selection = editor.getLastSelection()
     text = selection.getText()
     editor.insertText("{=="+text+"==}{>><<}")
+    editor.moveLeft(3)
 
   comment: ->
     editor = atom.workspace.getActivePaneItem()
     selection = editor.getLastSelection()
     text = selection.getText()
     editor.insertText("{>>"+text+"<<}")
+    if !text
+        editor.moveLeft(3)
