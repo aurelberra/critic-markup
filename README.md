@@ -11,12 +11,12 @@ I am adding additional features (like key bindings!)
 
 Key bindings are working:
 
-  cmd-alt-a: addition
-  cmd-alt-d: deletion (fails on default mac setup because the system uses that for hide/show dock)
-  cmd-alt-backspace: deletion
-  cmd-alt-s: substitution
-  cmd-alt-h: highlight
-  cmd-alt-c: comment
+  cmd-alt-a: addition  
+  cmd-alt-d: deletion (fails on default mac setup because the system uses that for hide/show dock)  
+  cmd-alt-backspace: deletion  
+  cmd-alt-s: substitution  
+  cmd-alt-h: highlight  
+  cmd-alt-c: comment  
 
 
 
