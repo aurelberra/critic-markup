@@ -15,8 +15,10 @@ Wouldn't it be nice to be able to remove the markup when selecting a text alread
 
 ### Keybindings
 I am using the following, to avoid conflict with some MacOS default shortcuts.
+```
 "ctrl-shift-a": "critic-markup:addition"
 "ctrl-shift-d": "critic-markup:deletion"
 "ctrl-shift-s": "critic-markup:substitution"
 "ctrl-shift-h": "critic-markup:highlight"
 "ctrl-shift-c": "critic-markup:comment"
+```
