@@ -1,8 +1,9 @@
 name: "Critic"
 scopeName: "text.critic"
 fileTypes: [
-  "md"
   "markdown"
+  "md"
+  "mdown"
   "txt"
 ]
 patterns: [
