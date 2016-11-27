@@ -1,4 +1,4 @@
-'atom-text-editor':
+"atom-text-editor":
   "ctrl-shift-a": "critic-markup:addition"
   "ctrl-shift-d": "critic-markup:deletion"
   "ctrl-shift-s": "critic-markup:substitution"
