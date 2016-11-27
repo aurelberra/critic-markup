@@ -5,7 +5,7 @@ Forked from [jnmaloof](https://github.com/jnmaloof/critic-markup), who forked [l
 
 [CriticMarkup](http://criticmarkup.com/) is a way for authors and collaborators to track changes in plain-text [Markdown](https://en.wikipedia.org/wiki/Markdown) documents.
 
-![](darwin_os_criticmarkup.png)
+![](darwin_criticmarkup.png)
 
 ### Install
 From a terminal in this directory, you can link the package to your Atom folder by running `apm link`.
