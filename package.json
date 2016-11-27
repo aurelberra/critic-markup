@@ -13,8 +13,8 @@
       "critic-markup:addition",
       "critic-markup:deletion",
       "critic-markup:substitution",
-      "critic-markup:highlight",
-      "critic-markup:comment"
+      "critic-markup:comment",
+      "critic-markup:highlight"
     ]
   }
 }
