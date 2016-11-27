@@ -25,6 +25,8 @@ module.exports =
     selection = editor.getLastSelection()
     text = selection.getText()
     editor.insertText("{--"+text+"--}")
+    if !text
+        editor.moveLeft(3)
 
   substitution: ->
     editor = atom.workspace.getActivePaneItem()

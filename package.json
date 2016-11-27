@@ -1,8 +1,8 @@
 {
   "name": "atom-criticmarkup",
-  "version": "0.0.0",
+  "version": "0.3.2",
   "description": "Support for CriticMarkup in Atom",
-  "repository": "https://github.com/claman/atom-criticmarkup",
+  "repository": "https://github.com/aurelberra/critic-markup",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

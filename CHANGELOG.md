@@ -1,3 +1,7 @@
+## 0.3.2
+* AB added right cursor position for (unlikely) deletion with no text selected
+* AB modified keymaps to preserve default Mac shortcuts
+
 ## 0.3.0
 * JNM added keymaps
 
