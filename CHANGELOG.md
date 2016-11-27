@@ -1,6 +1,7 @@
-## 0.3.2
+## 0.4.0
 * AB added right cursor position for (unlikely) deletion with no text selected
-* AB modified keymaps to preserve default Mac shortcuts
+* AB modified keybindings to preserve default Mac shortcuts
+* AB reordered commands as per CriticMarkup website for the sake of consistency
 
 ## 0.3.0
 * JNM added keymaps
